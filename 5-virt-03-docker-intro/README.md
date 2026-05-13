@@ -31,6 +31,8 @@ https://hub.docker.com/repository/docker/kolez0/general
 По умолчанию для compose-файла используется имя compose.yaml, а использование docker-compose.yaml оставлено для обратной совместимости, и следовательно запущены будут контейнеры из compose.yaml.
 Используем директиву include в файле compose.yaml для внедрения содержимого файла docker-compose.yaml. 
 
+[файл](task5/compose.yaml)
+
 ![скриншот](img7.png)
 
 ![скриншот](img8.png)
