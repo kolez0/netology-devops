@@ -24,3 +24,8 @@ https://hub.docker.com/repository/docker/kolez0/general
 
 ![скриншот](img5.png)
 
+# Задача 5
+
+![скриншот](img6.png)
+
+По умолчанию для compose-файла используется имя compose.yaml, а использование docker-compose.yaml оставлено для обратной совместимости, и следовательно запущены будут контейнеры из compose.yaml.
